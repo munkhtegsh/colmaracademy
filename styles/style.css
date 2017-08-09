@@ -1,0 +1,120 @@
+html, body{
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    color: #263238;
+}
+
+nav{
+    display: flex;
+    height: 5rem;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5rem       
+}
+
+.logo{
+    display: flex;
+    padding: 0px 2rem;
+}
+
+.logo p{
+    font-weight: 900;
+}
+
+.logo span{
+    font-weight: ;
+    color: #9E9E9E;
+}
+
+.navigations{
+    padding: 0px 2rem;
+    font-size: 1.2rem;
+}
+
+.navigations a{
+    color: black;
+    padding-left: 1.3rem;
+    text-decoration: none;
+}
+
+.jumbotron{
+    display: flex;
+    background-color: #E0E0E0;
+    align-items: center;
+}
+.jumbotron .img{
+    padding: 3rem 2rem;
+    max-width: 60%;
+}
+
+.start{
+    max-width: 30%;
+}
+
+.start h1{
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+.start h5{
+    font-size: 1.5rem;
+    font-weight: 500
+}
+
+.start p{
+    text-align: center;
+    padding: 0.7rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: white;
+}
+.start .box{
+    width: 90%;
+    background-color: #424242;
+}
+
+.main{
+    display: flex;
+}
+.main .leftSide{
+    max-width: 60%;
+    padding: 3rem 2rem;
+}
+
+img{
+    max-width: 100%;
+}
+
+.main h3{
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 0rem;
+
+}
+
+.main p{
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+}
+
+.main small{
+    padding-bottom: 2.5rem;
+}
+
+.t{
+    display: flex;
+    align-items: center;
+    border: solid 1px #EEEEEE;
+}
+
+.titles{
+    width: 65%;
+}
+
+.rightSide .img{
+    width: 35%;
+    max-height: 
+    padding: 1.2rem;
+    height: auto;
+}
+
