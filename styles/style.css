@@ -247,6 +247,8 @@ a:hover{
 
 .t:hover{
     background-color: #E0E0E0;
+    border-radius: 5px;
+    transition: background-color 0.5s;
 }
 
 
